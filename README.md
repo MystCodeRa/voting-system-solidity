@@ -1,5 +1,5 @@
 # voting-system-solidity
-## Basit Oylama Akllı kontratı 
+## Basit Oylama Akıllı Kontratı 
 (Simple Voting Smart Contract)
 Bu proje, Ethereum blockchain üzerinde çalışan merkeziyetsiz oylama (voting) sistemidir.Solidity proglamlama diliyle yazılmıştır 
 ve Remix IDE üzerinde test edilmiştir.
@@ -12,5 +12,5 @@ ve Remix IDE üzerinde test edilmiştir.
 2. 'voting. sol' adlı bir dosya oluşrutrup bu kontratı yapıştırın.
 3. "Soliidty Compiler" sekmsinden sözleşmeyi derleyin.
 4. "Deploy & Run Transaction" sekmesine geçin.
-5. Kurucu fonksiyona (constructor) aşağıdaki aday isimlerini array formatında
+5. Kurucu fonksiyona (constructor) aşağıdaki aday isimlerini array formatında girin. 
 6.  ["Alice", "john" , Bob"]
